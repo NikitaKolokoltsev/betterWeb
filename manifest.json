@@ -1,0 +1,9 @@
+{
+  "manifest_version": 2,
+  "name": "betterWeb",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_title": "Enhanced UI for ugly websites"
+  }
+}
